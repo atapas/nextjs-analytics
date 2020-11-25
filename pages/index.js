@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>
-          { process.env.NEXT_PUBLIC_FAKE_BLOG_NAME } 😉(Original @ <a href={ process.env.NEXT_PUBLIC_FAKE_ORIGINAL_BLOG_LINK } target="_blank">{ process.env.NEXT_PUBLIC_FAKE_ORIGINAL_BLOG_NAME }</a>)
+          { process.env.NEXT_PUBLIC_FAKE_BLOG_NAME } 😉(Original @ <a href={ process.env.NEXT_PUBLIC_ORIGINAL_BLOG_LINK } target="_blank">{ process.env.NEXT_PUBLIC_ORIGINAL_BLOG_NAME }</a>)
         </h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
