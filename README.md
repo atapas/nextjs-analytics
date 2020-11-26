@@ -28,6 +28,9 @@ Then,
 ```shell
 yarn dev # Or npm run dev
 ```
+# Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+
+[![Stargazers repo roster for @atapas/nextjs-analytics](https://reporoster.com/stars/atapas/nextjs-analytics)](https://github.com/atapas/nextjs-analytics/stargazers)
 
 # 🌟 Want to Motivate?
 
