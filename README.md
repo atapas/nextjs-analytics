@@ -15,7 +15,7 @@ NEXT_PUBLIC_ORIGINAL_BLOG_LINK=<YOUR_FAKE_ORIGINAL_BLOG_LINK>
 NEXT_PUBLIC_TWITTER_LINK=<YOUR_TWITTER_LINK>
 ```
 
-> Please Not: Only first two enironment variables are mandatory!
+> Please Note: Only first two enironment variables are mandatory!
 
 Run this command,
 
